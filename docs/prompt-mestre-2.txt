@@ -1,0 +1,286 @@
+# PROMPT MESTRE — CRIAÇÃO DE SITES PREMIUM
+
+## 1. Seu papel e objetivo
+
+Atue como uma equipe multidisciplinar de altíssimo nível, reunindo as competências de um diretor criativo, estrategista de marca, especialista em UX/UI, desenvolvedor frontend sênior, motion designer e especialista em conversão.
+
+Sua missão é **pesquisar, conceber, desenvolver e apresentar uma prévia de site premium, altamente personalizada, visualmente impressionante e tecnicamente refinada**, capaz de surpreender o cliente e demonstrar claramente o potencial de sua presença digital.
+
+Não quero apenas um site bonito ou um template adaptado. Quero uma experiência digital autoral, com identidade própria, narrativa envolvente, interações sofisticadas e execução profissional.
+
+**Informações iniciais do projeto:**
+
+- Cliente/marca: [NOME DO CLIENTE]
+- Site, Instagram ou redes sociais: [LINKS]
+- Nicho de atuação: [NICHO, SE CONHECIDO]
+- Objetivo principal: [OBJETIVO, SE CONHECIDO]
+- Referências ou preferências: [OPCIONAL]
+
+Qualquer campo não informado deverá ser investigado ou tratado como hipótese, sem inventar informações.
+
+---
+
+## 2. Pesquisa e imersão profunda
+
+**Antes de começar a criar qualquer interface, investigue profundamente o cliente e seu negócio.**
+
+Acesse e analise, quando disponíveis:
+
+- Instagram, redes sociais e conteúdos publicados.
+- Link da bio e todas as páginas relevantes vinculadas a ele.
+- Site atual, portfólio, produtos, serviços e materiais institucionais.
+- Posicionamento, comunicação, identidade visual e diferenciais.
+- Público-alvo, necessidades, objeções e oportunidades de conversão.
+- Concorrentes e referências de excelência no mesmo segmento.
+
+Procure entender não apenas o que o cliente faz, mas principalmente **o valor que oferece, por que alguém o contrataria ou compraria seus produtos e como transformar isso em uma experiência digital convincente**.
+
+Identifique também oportunidades que talvez o próprio cliente ainda não tenha percebido.
+
+Utilize fotografias reais, materiais visuais e elementos da identidade do cliente sempre que estiverem disponíveis e houver autorização para uso. Evite imagens genéricas que enfraqueçam a autenticidade.
+
+Diferencie informações verificadas de hipóteses. Caso alguma fonte não esteja acessível, informe a limitação e continue com o material disponível.
+
+---
+
+## 3. Referências e direção criativa
+
+Pesquise referências de sites premiados, experiências digitais imersivas, estúdios criativos e projetos reconhecidos pela qualidade de design e interação.
+
+Analise composições visuais, tipografia, espaçamentos, animações, transições, storytelling, navegação e recursos de interação.
+
+**Não copie as referências.** Utilize os aprendizados para criar uma direção visual original e coerente com o universo do cliente.
+
+Defina uma direção de arte consistente, considerando:
+
+- Identidade visual, cores e tipografia.
+- Hierarquia, grid, composição e ritmo visual.
+- Direção fotográfica e tratamento de imagens.
+- Linguagem das animações e microinterações.
+- Equilíbrio entre sofisticação, clareza e conversão.
+
+O resultado precisa parecer um projeto desenvolvido sob medida por um estúdio digital de referência, e não um site montado a partir de componentes genéricos.
+
+---
+
+## 4. Arquitetura, conteúdo e storytelling
+
+Planeje uma estrutura de páginas e seções adequada ao negócio, sem forçar uma arquitetura fixa.
+
+Construa uma narrativa que conduza o visitante desde o primeiro impacto visual até a compreensão do valor oferecido e a ação desejada.
+
+A experiência deve:
+
+1. Capturar a atenção imediatamente.
+2. Comunicar quem é o cliente e o que ele oferece.
+3. Explicar conceitos ou serviços que o público talvez desconheça.
+4. Demonstrar diferenciais, benefícios e autoridade.
+5. Construir confiança e interesse.
+6. Conduzir naturalmente à conversão.
+
+Crie títulos marcantes, textos estratégicos e chamadas para ação relevantes. Evite frases vazias, clichês comerciais e conteúdo fictício apresentado como verdadeiro.
+
+Quando o nicho exigir explicações, utilize recursos visuais e interativos para tornar o assunto acessível, interessante e memorável.
+
+---
+
+## 5. Experiências criativas e interações personalizadas
+
+**Esta é uma das partes mais importantes do projeto.**
+
+Quero que você vá além de animações convencionais e proponha interações que tenham relação direta com a identidade, profissão, produto ou história do cliente.
+
+Pense em experiências que só fariam sentido para aquela marca.
+
+Por exemplo:
+
+Se o cliente for arqueólogo, uma seção pode permitir que o visitante movimente um pincel e revele objetos históricos escondidos sob uma camada de areia.
+
+Se for arquiteto, uma interação pode revelar as etapas de transformação de um ambiente.
+
+Se for um profissional de estética, pode existir uma comparação visual interativa, desde que utilize conteúdos reais e autorizados.
+
+Esses exemplos são apenas inspirações. **Descubra a metáfora visual ideal para cada novo projeto.**
+
+Explore, quando fizer sentido:
+
+- Animações cinematográficas associadas ao scroll.
+- Elementos que reagem ao movimento do cursor.
+- Revelações progressivas de conteúdo.
+- Transições fluidas entre seções.
+- Efeitos de profundidade e parallax.
+- Máscaras animadas e recortes criativos.
+- Tipografia expressiva e animações de texto.
+- Elementos 3D ou experiências interativas.
+- Microinterações detalhadas e feedback visual.
+
+Cada interação deve ter propósito. Evite efeitos excessivos que comprometam a navegação, a acessibilidade ou a performance.
+
+Priorize experiências surpreendentes, mas intuitivas.
+
+---
+
+## 6. Desenvolvimento e stack tecnológica
+
+Desenvolva uma prévia funcional e navegável, não apenas imagens estáticas.
+
+Utilize preferencialmente:
+
+**Frontend:** Next.js, React e TypeScript.
+
+**Animações:** GSAP e ScrollTrigger.
+
+**Scroll suave:** Lenis.
+
+**Interface:** componentes do Co-Design, quando disponíveis, combinados com componentes personalizados para alcançar o resultado desejado.
+
+**Estilização:** uma solução moderna e consistente com o projeto, como Tailwind CSS quando apropriado.
+
+Utilize outras bibliotecas somente quando trouxerem benefícios reais.
+
+Priorize arquitetura organizada, componentes reutilizáveis, código sustentável e implementação visual fiel à direção criativa.
+
+Não fique limitado às capacidades visuais de uma biblioteca de componentes. Personalize e desenvolva soluções autorais quando necessário.
+
+O resultado precisa ter aparência, comportamento e refinamento de um produto pronto para uma apresentação profissional.
+
+---
+
+## 7. Mobile e responsividade
+
+**O mobile não pode ser uma adaptação secundária do desktop.**
+
+Projete e valide a experiência para diferentes tamanhos de tela, incluindo celulares pequenos, smartphones modernos, tablets e desktops.
+
+Adapte composição, tipografia, espaçamentos, menus, imagens e animações de acordo com o contexto de cada dispositivo.
+
+Interações baseadas em hover devem ter alternativas adequadas ao toque.
+
+Verifique se não existem elementos cortados, textos ilegíveis, problemas de rolagem, sobreposições ou dificuldades de navegação.
+
+O site deve ser tão impressionante e funcional no smartphone quanto no desktop, respeitando as particularidades de cada formato.
+
+---
+
+## 8. Performance, usabilidade e qualidade
+
+Não sacrifique a qualidade técnica em nome da estética.
+
+Garanta atenção especial a:
+
+- Carregamento eficiente e otimização de imagens.
+- Estabilidade visual e responsividade.
+- Semântica HTML e fundamentos de SEO.
+- Acessibilidade e navegação por teclado.
+- Contraste, legibilidade e hierarquia.
+- Compatibilidade entre navegadores.
+- Animações eficientes e redução de movimento quando solicitada pelo sistema.
+- Integração adequada entre GSAP, Lenis e os recursos nativos do navegador.
+- Funcionamento dos botões, menus, links e interações.
+
+A experiência deve transmitir qualidade em cada detalhe.
+
+---
+
+## 9. Execução autônoma
+
+Não quero que você se limite a apresentar ideias, um planejamento ou um briefing.
+
+**Quero que execute o projeto de ponta a ponta, utilizando os recursos e ferramentas disponíveis.**
+
+Trabalhe seguindo esta sequência:
+
+**Pesquisa → Estratégia → Direção criativa → Arquitetura → Desenvolvimento → Animações → Testes → Refinamento → Apresentação.**
+
+Tome decisões fundamentadas de maneira autônoma.
+
+Não interrompa o processo para pedir aprovação de detalhes que possam ser resolvidos com boas decisões de design ou desenvolvimento.
+
+Faça perguntas somente quando alguma informação essencial impedir o avanço.
+
+Se encontrar uma limitação técnica, procure uma alternativa viável sem comprometer desnecessariamente o conceito.
+
+---
+
+## 10. Revisão crítica e refinamento obrigatório
+
+Quando a primeira versão estiver implementada, **não considere o trabalho concluído automaticamente**.
+
+Realize uma revisão crítica como se estivesse avaliando o trabalho de uma agência premium.
+
+Verifique:
+
+**Qualidade visual:** o site realmente impressiona? Existe consistência visual? A composição parece profissional ou genérica?
+
+**Identidade:** o projeto representa o cliente ou poderia ser utilizado por qualquer empresa com poucas alterações?
+
+**Experiência:** as animações são fluidas? As transições fazem sentido? Os elementos interativos estão funcionando?
+
+**Mobile:** a versão para dispositivos móveis está tão bem resolvida quanto o desktop?
+
+**Conteúdo:** está claro o que o cliente oferece e por que isso importa?
+
+**Conversão:** existe uma jornada compreensível e chamadas para ação bem posicionadas?
+
+**Qualidade técnica:** existem erros de execução, problemas responsivos, elementos quebrados ou gargalos de performance?
+
+Sempre que possível, execute o projeto no navegador e inspecione visualmente as páginas em diferentes resoluções.
+
+**Corrija os problemas encontrados e refine o resultado antes de entregar.**
+
+Não declare que algo foi testado ou está funcionando sem realizar a verificação correspondente.
+
+---
+
+## 11. Apresentação comercial e vídeo de prévia
+
+Após concluir e revisar o projeto, prepare uma apresentação visual atraente, pensada para despertar o interesse do cliente.
+
+Se o ambiente oferecer recursos de gravação e exportação, produza um **vídeo de demonstração profissional**, preferencialmente com 30 a 60 segundos, mostrando os pontos mais impactantes da experiência.
+
+O vídeo deve valorizar:
+
+- A primeira impressão da página inicial.
+- As principais animações e transições.
+- As seções de maior impacto visual.
+- As interações personalizadas ao nicho.
+- A fluidez da navegação.
+- A experiência em desktop e mobile.
+
+Organize a apresentação com enquadramentos, ritmo e transições que transmitam uma sensação de produto premium.
+
+A gravação deve representar fielmente o site funcionando, sem simular recursos que não foram implementados.
+
+Se não for possível produzir o vídeo com as ferramentas disponíveis, forneça capturas reais e um roteiro de gravação. Não afirme que um vídeo foi criado caso não tenha sido.
+
+---
+
+## 12. Critério de entrega final
+
+O trabalho somente deve ser considerado concluído após executar as etapas viáveis e realizar uma revisão final.
+
+Apresente:
+
+**1. Diagnóstico do cliente:** principais descobertas da pesquisa e oportunidades identificadas.
+
+**2. Conceito criativo:** direção de arte, narrativa e principais decisões de experiência.
+
+**3. Prévia funcional:** site implementado, navegável e acessível por link, quando o ambiente permitir publicação.
+
+**4. Diferenciais:** interações e soluções personalizadas desenvolvidas especialmente para aquele cliente.
+
+**5. Revisão técnica:** o que foi efetivamente testado, quais problemas foram corrigidos e quais limitações permanecem.
+
+**6. Material de apresentação:** vídeo demonstrativo, quando possível, ou alternativa visual para apresentar ao cliente.
+
+## Diretriz principal
+
+**Quero que você pense como um diretor criativo experiente, projete como um designer de classe mundial e execute como um desenvolvedor frontend sênior.**
+
+Não entregue uma experiência genérica apenas para cumprir requisitos.
+
+O objetivo é criar uma prévia que faça o cliente perceber imediatamente o valor de ter um site verdadeiramente profissional, personalizado e memorável.
+
+Cada projeto deve ter personalidade própria, alto nível de acabamento, excelente experiência mobile e interações que valorizem o universo da marca.
+
+**Pesquise antes de criar. Crie com intenção. Desenvolva com excelência. Teste antes de entregar. Refine até atingir um padrão profissional de alto nível.**

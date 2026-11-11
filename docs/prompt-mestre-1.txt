@@ -1,0 +1,568 @@
+💻🖋️PROMPT MESTRE PARA CRIAÇÃO DE PÁGINAS
+COPY + PERSUASÃO + UX + NEURODESIGN + DIREÇÃO VISUAL + CONVERSÃO
+Ao criar, desenvolver, revisar ou refazer qualquer site, landing page, página de vendas, página de produto, SaaS, ferramenta, negócio local, serviço profissional ou página de geração de leads, trate copy, estrutura, UX e design como um único sistema.
+O objetivo não é simplesmente criar uma página bonita.
+O objetivo é criar uma experiência que:
+capte atenção → gere identificação → facilite compreensão → construa desejo → demonstre valor → reduza objeções → gere confiança → torne a próxima ação óbvia.
+A página deve persuadir sem exigir esforço mental desnecessário.
+
+1. PRINCÍPIO CENTRAL
+Toda decisão deve partir desta pergunta:
+Quem chegou aqui, o que essa pessoa quer resolver e o que ela precisa entender agora para continuar?
+Construa a página seguindo a lógica mental do visitante, e não a estrutura interna da empresa.
+Não comece pelo produto apenas porque ele é o que está sendo vendido.
+Comece pela ideia, problema, oportunidade ou resultado que faz sentido para o nível de consciência do visitante.
+Exemplo:
+Evitar:
+"Conheça nossa plataforma completa de gestão."
+Preferir:
+"Organize reservas, campeonatos e jogadores sem depender de planilhas e mensagens espalhadas."
+Primeiro:
+o que importa para o usuário.
+Depois:
+como o produto resolve.
+
+2. REFERÊNCIAS E PRINCÍPIOS
+Utilize como base estratégica conceitos de:
+Copy e persuasão
+• Great Leads • Ogilvy on Advertising • The Adweek Copywriting Handbook
+UX e design
+• Refactoring UI • Laws of UX • Don't Make Me Think • Grid Systems in Graphic Design • Thinking with Type • Universal Principles of Design
+Psicologia e comportamento
+Aplicar princípios de:
+• vieses cognitivos • neurodesign • design centrado no usuário • fluência cognitiva • redução da carga mental • atenção visual • percepção de risco • tomada de decisão
+Essas referências servem apenas como fundamentos.
+Nunca copie trechos, estruturas literais ou frases dos livros.
+Adapte os princípios ao negócio, público, produto, oferta, estágio de consciência e objetivo da página.
+
+3. ANTES DE CRIAR A PÁGINA
+Antes de definir layout ou escrever copy, determine silenciosamente:
+• tipo de negócio • produto ou serviço vendido • modelo de monetização • público principal • principal problema percebido • resultado desejado • nível de consciência do visitante • o que ele provavelmente já tentou • alternativas que conhece • principais objeções • origem provável do tráfego • dispositivo predominante • nível de confiança necessário • complexidade da solução • ação principal desejada • quantidade de informação necessária antes da conversão
+Depois classifique a página, quando possível, como:
+• negócio local • serviço profissional • SaaS • software ou ferramenta • ecommerce • produto físico • infoproduto • marketplace • página institucional • geração de leads • página de vendas • lançamento • serviço de alto ticket • outro modelo identificado pelo contexto
+Nunca aplique automaticamente a mesma estrutura a negócios diferentes.
+
+4. DEFINA UMA ÚNICA CONVERSÃO PRINCIPAL
+Determine antes de construir:
+Qual é a principal ação que desejo que o visitante execute?
+Exemplos:
+• comprar • testar • solicitar orçamento • entrar no WhatsApp • agendar • cadastrar-se • assistir demonstração • escolher plano • iniciar checkout
+Essa ação deve orientar:
+• copy • hierarquia • navegação • CTAs • provas • ordem das seções • redução de objeções
+A página pode possuir ações secundárias, mas deve existir uma ação dominante.
+
+5. O PRINCÍPIO DO ESCORREGADOR
+A página deve funcionar como uma sequência contínua.
+A função da headline é fazer o visitante consumir a subheadline.
+A função da subheadline é fazê-lo consumir o próximo bloco.
+A função de cada seção é gerar interesse suficiente para chegar à próxima.
+A página não deve parecer uma pilha de seções independentes.
+A progressão deve parecer natural:
+atenção → interesse → identificação → problema → consequência → oportunidade → solução → compreensão → desejo → demonstração → confiança → objeções → oferta → redução de risco → ação
+Depois de cada seção, pergunte:
+Existe um motivo suficientemente forte para continuar descendo?
+Se não existir, ajuste a seção ou sua transição.
+
+6. NÍVEL DE CONSCIÊNCIA DEFINE A ABERTURA
+Antes de escrever o hero, identifique o que o visitante já sabe.
+Quanto mais consciente estiver do problema e da solução, mais direta pode ser a página.
+Quanto menos consciente estiver, mais será necessário trabalhar:
+• contexto • identificação • educação • curiosidade • problema • consequências • nova oportunidade • mecanismo • descoberta
+Não apresente automaticamente o produto na primeira frase.
+Escolha a melhor porta de entrada para a mente daquele público.
+
+7. PRIMEIRA DOBRA
+A primeira dobra deve responder rapidamente:
+O que é isso? É para mim? O que ganho? Por que devo continuar? Qual é o próximo passo?
+Normalmente deve conter:
+• headline • subheadline • CTA principal • elemento visual relevante • pequena evidência, benefício ou redutor de risco quando necessário
+Não tente apresentar todos os argumentos no hero.
+Sua principal função é:
+parar → esclarecer → gerar interesse → provocar continuidade.
+No mobile, a primeira dobra não deve parecer o final da página.
+Crie continuidade visual que indique naturalmente que há mais conteúdo abaixo.
+
+8. HEADLINE É PRIORIDADE
+A headline é um dos elementos mais importantes da página.
+Ela deve buscar uma combinação adequada de:
+• relevância • benefício • especificidade • problema reconhecível • transformação • diferenciação • novidade • curiosidade
+Evitar títulos como:
+"Transforme seu negócio."
+"Leve sua empresa ao próximo nível."
+"Uma solução completa para você."
+"Tecnologia que gera resultados."
+O visitante deve pensar:
+"Isso é para mim."
+ou:
+"Quero entender isso."
+A headline não precisa explicar tudo.
+Ela precisa conquistar a próxima leitura.
+
+9. COPY COMO CONVERSA
+Escreva como se estivesse conversando com uma pessoa específica.
+Evite tom:
+• burocrático • corporativo demais • acadêmico • artificialmente sofisticado • carregado de jargões • exageradamente publicitário
+A página deve transmitir:
+"Eles entendem exatamente o problema que eu tenho."
+Antecipe perguntas mentais como:
+"Isso funciona para mim?"
+"Vai dar muito trabalho?"
+"Já uso outra solução."
+"Por que escolher isso?"
+"Quanto custa?"
+"Vale esse investimento?"
+"É difícil começar?"
+"Posso cancelar?"
+"Por que eu deveria confiar?"
+Responda essas perguntas no momento em que provavelmente surgirem.
+
+10. BENEFÍCIO ANTES DE FUNCIONALIDADE
+Não apresente funcionalidades isoladamente.
+Utilize:
+função → consequência prática → benefício → impacto percebido
+Exemplo:
+Fraco:
+"Dashboard com relatórios automáticos."
+Melhor:
+"Acompanhe os principais números da operação em um único painel sem precisar montar relatórios manualmente."
+Outro exemplo:
+Fraco:
+"Agenda online."
+Melhor:
+"Veja horários disponíveis e organize reservas sem conferir conversa por conversa no WhatsApp."
+Sempre que apresentar uma função, pergunte:
+"E daí?"
+Continue até chegar ao benefício que realmente interessa ao usuário.
+
+11. ESPECIFICIDADE AUMENTA CREDIBILIDADE
+Sempre que existirem informações verdadeiras, prefira detalhes concretos.
+Evitar:
+"Alta qualidade."
+"Resultados incríveis."
+"Plataforma completa."
+"Atendimento diferenciado."
+"Tecnologia avançada."
+Mostrar:
+• como funciona • processo • etapas • prazo • o que está incluído • exemplos • funcionalidades • limitações • diferenças • números verdadeiros • comparações • demonstrações
+Nunca invente:
+• números • depoimentos • clientes • resultados • avaliações • certificações • estatísticas • urgência • escassez
+
+12. DEMONSTRE EM VEZ DE AFIRMAR
+Quanto maior a promessa, maior deve ser a evidência.
+Se disser que é simples:
+mostre o processo.
+Se disser que é rápido:
+mostre as etapas.
+Se disser que economiza trabalho:
+mostre o que deixa de ser feito manualmente.
+Se disser que é diferente:
+compare.
+Se disser que funciona:
+demonstre.
+Se disser que é fácil:
+mostre a interface.
+Utilize quando disponíveis:
+• screenshots • demonstrações • vídeos • casos reais • avaliações • exemplos • resultados • antes e depois • interface do produto • comparações • fluxos
+Copy e elementos visuais devem comprovar um ao outro.
+
+13. CURIOSIDADE COM RECOMPENSA
+Utilize curiosidade para gerar continuidade, não clickbait.
+Podem ser utilizados:
+• perguntas • contrastes • descobertas • mecanismos • antecipações • loops abertos • informações parcialmente apresentadas
+Toda curiosidade criada deve ser recompensada posteriormente com informação relevante.
+Não crie suspense artificial.
+
+14. USE VIESES COM ÉTICA
+Utilize vieses cognitivos apenas quando facilitarem compreensão ou decisão.
+Entre os principais:
+Prova social
+Mostrar que outras pessoas semelhantes utilizam, compraram ou aprovaram.
+Ancoragem
+Dar contexto de preço ou valor quando isso ajudar na interpretação da oferta.
+Aversão à perda
+Mostrar o custo real de continuar com determinado problema sem criar medo artificial.
+Enquadramento
+Apresentar uma informação da maneira mais compreensível para o usuário.
+Fluência cognitiva
+Quanto mais fácil for entender algo, mais familiar e seguro tende a parecer.
+Redução de escolha
+Remover alternativas desnecessárias.
+Especificidade
+Preferir situações e números concretos a promessas vagas.
+Consistência
+Depois que o usuário demonstra determinada intenção, tornar a próxima ação uma continuação natural.
+Nunca utilizar manipulação, informação escondida, escassez falsa ou urgência artificial.
+
+15. UMA DECISÃO DOMINANTE POR ÁREA
+Cada região da página deve possuir:
+uma mensagem dominante + uma ação ou conclusão dominante.
+Evite exigir que o usuário processe muitas coisas simultaneamente.
+Utilize como lógica:
+Problema → Benefício → Evidência → Ação
+Não destaque tudo.
+Se tudo chama atenção, nada chama atenção.
+
+16. HIERARQUIA VISUAL
+O design deve indicar silenciosamente:
+"Olhe aqui."
+"Agora aqui."
+"Agora faça isso."
+Utilize contraste de:
+• tamanho • peso • cor • posição • espaço • profundidade • movimento, somente quando necessário
+Uma seção deve normalmente possuir apenas um elemento visual dominante.
+Pode ser:
+• headline • demonstração • benefício • prova • oferta • CTA
+A prioridade depende da função daquela seção.
+
+17. REDUÇÃO DE CARGA COGNITIVA
+Quanto maior o esforço mental, maior a probabilidade de abandono.
+Priorizar:
+• frases curtas • blocos pequenos • títulos autoexplicativos • poucas decisões simultâneas • agrupamento lógico • informações secundárias progressivas • reconhecimento em vez de memorização • padrões familiares • linguagem concreta
+Não faça o visitante "estudar" a página.
+A compreensão deve acontecer quase automaticamente.
+
+18. ESCANEABILIDADE
+Parta da premissa de que o visitante inicialmente não lerá tudo.
+Ele irá escanear.
+Uma pessoa lendo apenas:
+• headlines • subtítulos • destaques • números • provas • imagens • bullets • CTAs
+ainda deve entender:
+qual problema está sendo tratado,
+qual é a solução,
+por que importa,
+por que deveria acreditar,
+e o que fazer agora.
+
+19. GRID E COMPOSIÇÃO
+Crie uma estrutura consistente de:
+• container • colunas • margens • gutters • alinhamentos • largura máxima • espaçamento vertical
+Não centralize tudo automaticamente.
+Utilize diferentes composições quando fizer sentido:
+• texto + imagem • imagem + texto • seção editorial • demonstração ampla • grids • comparações • prova social • blocos destacados • conteúdo centralizado
+A variação deve acompanhar o conteúdo e nunca parecer aleatória.
+
+20. SISTEMA VISUAL
+Antes da página completa, defina silenciosamente um mini design system com:
+• paleta • tipografia • H1, H2, H3 e body • escala de espaçamento • container • grid • radius • bordas • sombras • botões • inputs • cards • iconografia • estilos de seções • estados de interação
+Depois reutilize o sistema consistentemente.
+Não invente um novo estilo em cada seção.
+
+21. ESPAÇAMENTO
+Espaço comunica relacionamento.
+Elementos relacionados devem ficar próximos.
+Grupos diferentes devem possuir maior distância.
+Evitar:
+• espaços gigantes sem função • seções comprimidas • paddings inconsistentes • títulos desconectados do conteúdo • mesmo espaçamento para tudo
+Crie ritmo vertical consistente.
+
+22. TIPOGRAFIA
+Crie uma escala tipográfica clara.
+Controle:
+• tamanho • peso • line-height • largura de linha • contraste • hierarquia
+Não use dezenas de tamanhos intermediários.
+Headlines devem possuir largura controlada.
+Textos corridos devem priorizar legibilidade.
+Negrito deve destacar informações estratégicas, não parágrafos inteiros.
+Caixa alta deve ser utilizada principalmente para pequenos labels ou elementos de apoio.
+
+23. CORES
+Toda cor deve possuir função.
+Defina:
+• fundo • superfícies • texto principal • texto secundário • marca • ação • estados • bordas • decoração
+A cor do CTA principal não deve aparecer indiscriminadamente pela página.
+Se dezenas de elementos possuem o mesmo destaque do botão, o botão perde força.
+Nunca dependa apenas de cor para transmitir informação crítica.
+
+24. PROFUNDIDADE
+Utilize com moderação:
+• sombra • borda • contraste • transparência • blur • iluminação • sobreposição
+Nem todo elemento precisa flutuar.
+Nem todo card precisa possuir sombra.
+Quando uma borda for suficiente, utilize uma borda.
+Profundidade deve comunicar hierarquia, não apenas decoração.
+
+25. CARDS
+Não transforme toda informação em card.
+Antes de criar um card, pergunte:
+"Essa informação realmente precisa de um container próprio?"
+Se não, utilize uma composição editorial.
+Evitar aparência típica de páginas geradas automaticamente:
+• dezenas de cards iguais • bordas arredondadas em tudo • ícone em todo título • grids repetitivos de três cards • sombras por toda parte • gradients excessivos • caixas dentro de caixas
+
+26. IMAGENS
+Toda imagem deve cumprir função.
+Priorizar imagens que:
+• demonstrem produto • expliquem funcionamento • mostrem resultado • criem identificação • contextualizem serviço • mostrem transformação • reforcem posicionamento • sirvam como prova
+Evitar imagens genéricas apenas para preencher espaço.
+Em SaaS ou software, normalmente priorizar screenshots reais ou representações legíveis do produto.
+
+27. LEIS DE UX
+Lei de Hick
+Quanto mais escolhas simultâneas, maior o esforço de decisão.
+Reduza opções principalmente perto da conversão.
+Lei de Fitts
+Ações importantes devem ser fáceis de localizar e executar.
+No mobile, utilize áreas clicáveis confortáveis.
+Lei de Jakob
+Usuários já aprenderam padrões em milhares de outros sites.
+Não reinvente desnecessariamente:
+• menu • botão • formulário • accordion • tabs • checkout • navegação
+Criatividade nunca deve prejudicar compreensão.
+Gestalt
+Utilize:
+• proximidade • similaridade • continuidade • figura e fundo • fechamento • região comum
+para fazer agrupamentos parecerem intuitivos.
+
+28. PROGRESSIVE DISCLOSURE
+Não apresente toda a complexidade de uma vez.
+Informações avançadas podem utilizar:
+• accordions • tabs • etapas • "ver mais" • modais • tooltips
+Isso é especialmente importante em softwares e produtos complexos.
+
+29. OBJEÇÕES NO MOMENTO CERTO
+Não deixe todas as objeções para um FAQ no final.
+Distribua respostas ao longo da narrativa.
+Depois do preço:
+"Posso cancelar?"
+Depois da demonstração:
+"Preciso instalar algo?"
+Depois da solução:
+"Já utilizo outro sistema."
+Antes da compra:
+"O que acontece depois?"
+Mapeie principalmente:
+• preço • risco • confiança • tempo • dificuldade • necessidade • implementação • suporte • comparação • mudança de solução • "consigo fazer sozinho" • "não preciso agora"
+A página deve funcionar como uma conversa silenciosa.
+
+30. TRANSIÇÕES ENTRE SEÇÕES
+As seções não devem parecer isoladas.
+Utilize pontes narrativas.
+Exemplo:
+Problema:
+"É justamente aqui que começa o gargalo."
+Consequência:
+"Porque quando esse processo continua manual..."
+Solução:
+"Foi para eliminar esse ponto que criamos..."
+Demonstração:
+"Na prática, funciona assim:"
+Oferta:
+"Para começar, você pode escolher..."
+A próxima seção deve parecer consequência natural da anterior.
+
+31. PROVA SOCIAL
+Prova social deve ser proporcional à sua força.
+Uma avaliação verdadeira com nome, contexto e resultado pode ser mais convincente do que uma fileira de logos sem contexto.
+Podem ser usados:
+• depoimentos • avaliações • clientes • resultados • cases • screenshots • antes e depois • empresas • certificações • números verdadeiros
+Nunca invente prova social.
+
+32. OFERTA E PREÇO
+Quando chegar ao preço, o visitante já deve compreender:
+o problema,
+o valor da solução,
+como funciona,
+por que é diferente,
+e por que pode confiar.
+Facilite comparação e decisão.
+Evite adicionar complexidade desnecessária justamente no momento da conversão.
+Quando apropriado, utilize ancoragem, comparação ou contextualização de valor, sempre com informações verdadeiras.
+
+33. CTAs
+O CTA deve representar o próximo passo real.
+Evitar:
+"Enviar"
+"Clique aqui"
+"Continuar"
+"Saiba mais"
+Preferir:
+"VER COMO FUNCIONA"
+"TESTAR A PLATAFORMA"
+"VER OS PLANOS"
+"FALAR PELO WHATSAPP"
+"AGENDAR UMA AVALIAÇÃO"
+"SOLICITAR ORÇAMENTO"
+"COMEÇAR AGORA"
+Próximo ao CTA, reduza micro-objeções explicando, quando necessário:
+• o que acontece após clicar • tempo necessário • compromisso envolvido • possibilidade de cancelamento • custo ou ausência dele • necessidade ou não de cartão
+O visitante nunca deve pensar:
+"O que vai acontecer se eu clicar?"
+
+34. DESIGN MOBILE
+Mobile não é desktop comprimido.
+Reavalie especificamente:
+• ordem dos elementos • tamanho da headline • quantidade de texto • espaçamento • grids • imagens • tabelas • comparações • cards • navegação • CTAs • áreas clicáveis
+Conteúdo prioritário deve aparecer primeiro.
+Verifique também:
+• quebras estranhas de headline • overflow horizontal • botões pequenos • textos apertados • imagens cortadas • excesso de altura • hero que parece encerrar a página
+
+35. ACESSIBILIDADE
+Não sacrifique usabilidade para ganhar estética.
+Garantir:
+• contraste adequado • textos legíveis • áreas de toque confortáveis • foco visível • labels em formulários • estados claros • navegação por teclado quando aplicável • alt text adequado • informação não dependente exclusivamente de cor
+
+36. FORMULÁRIOS
+Solicite apenas dados necessários.
+Cada campo adicional adiciona fricção.
+Organize os campos em uma sequência lógica.
+Use:
+• labels claras • mensagens de erro úteis • feedback de preenchimento • estados visíveis
+Não apague informações já preenchidas após um erro.
+Negócios locais e geração de leads normalmente devem possuir formulários mais curtos.
+Qualificação de alto ticket pode justificar mais campos.
+
+37. MICROINTERAÇÕES
+Movimento deve possuir função.
+Utilize animações para:
+• feedback • mudança de estado • orientação • confirmação • transição • percepção de resposta
+Evite elementos se movimentando constantemente apenas para chamar atenção.
+Respeite prefers-reduced-motion quando aplicável.
+
+38. EVITE O "VISUAL DE IA"
+A página deve parecer criada especificamente para aquele negócio.
+Não utilizar automaticamente:
+• fundo escuro com gradient roxo • glow em todos os elementos • glassmorphism excessivo • cards em todas as seções • radius exagerado • ícones coloridos em todo bloco • grids previsíveis de três cards • mockup flutuando sem contexto • títulos centralizados em todas as seções • badges em todas as headlines • blobs • partículas • linhas neon • gradients gratuitos • excesso de emojis • seções usadas apenas para preencher espaço
+Evitar também repetir exatamente o mesmo layout em todas as seções.
+Crie ritmo visual.
+
+39. ADAPTE O DESIGN AO NEGÓCIO
+Negócio local
+Priorizar:
+• serviço • localização • contato • WhatsApp • telefone • agendamento • avaliações • fotos reais • equipe • área atendida • reputação • prova local
+O usuário quer responder rapidamente:
+"Fazem o que preciso?"
+"Atendem minha região?"
+"Posso confiar?"
+"Como entro em contato?"
+
+SaaS e software
+Priorizar:
+• produto • screenshots • demonstrações • casos de uso • fluxo • benefícios • diferenciais • comparações • integrações • pricing • onboarding • segurança • FAQ • prova de uso
+O usuário quer responder:
+"O que faz?"
+"Como funciona?"
+"Resolve meu problema?"
+"É melhor do que o que utilizo?"
+"Quanto custa?"
+"É difícil começar?"
+Mostrar o produto normalmente é mais importante do que utilizar ilustrações abstratas.
+
+Serviço de alto ticket
+Priorizar:
+• posicionamento • especialização • autoridade • processo • método • provas • cases • resultados • diferenciais • redução de risco • próximos passos
+Evitar aparência de promoção barata.
+
+Infoproduto
+Priorizar:
+• promessa • transformação • mecanismo • autoridade • método • módulos • conteúdo • provas • depoimentos • bônus • objeções • garantia • oferta • CTA
+Maior quantidade de conteúdo é aceitável, mas nunca justifica desorganização.
+
+40. DENSIDADE DE CONTEÚDO
+A densidade deve acompanhar o contexto.
+Como referência:
+Negócio local: baixa a média.
+SaaS: média.
+Ferramenta técnica: média a alta quando necessário.
+Infoproduto: média a alta com bom ritmo.
+Luxo ou alto ticket: menor densidade e mais controle de espaço.
+Não utilize enormes áreas vazias apenas para parecer premium.
+
+41. ORDEM PADRÃO DE RACIOCÍNIO
+Utilize como ponto de partida:
+Intenção → Problema → Consequência → Promessa → Mecanismo → Benefícios → Demonstração → Diferenciais → Provas → Objeções → Oferta → Redução de risco → CTA
+Essa sequência não é rígida.
+Adapte quando o tipo de página, nível de consciência ou comportamento do visitante exigir outra ordem.
+O princípio é:
+cada etapa deve preparar psicologicamente a próxima.
+
+42. REDUÇÃO DE RUÍDO
+Para cada elemento da página, pergunte:
+"Se eu remover isso, a compreensão, confiança ou conversão piora?"
+Se a resposta for não, considere remover.
+Isso vale para:
+• texto • ícones • badges • bordas • divisores • imagens • backgrounds • animações • partículas • microcopy • efeitos
+Priorize sinal sobre ruído.
+
+43. TESTE DE ESCANEAMENTO
+Depois de finalizar, ignore os parágrafos e leia apenas:
+• H1 • H2 • H3 • destaques • provas • números • CTAs
+Pergunte:
+Ainda é possível compreender a proposta de valor e tomar uma decisão?
+Se não, corrija a hierarquia e a copy.
+
+44. TESTE DE FLUXO
+Analise a página inteira de cima para baixo.
+Para cada seção, responda:
+1. Ela aumenta ou diminui o interesse?
+2. Existe motivo para continuar?
+3. A próxima seção parece consequência natural?
+4. Estou falando sobre algo importante para o usuário ou apenas sobre a empresa?
+5. Existe alguma afirmação forte sem prova?
+6. Alguma objeção surgiu e ficou sem resposta?
+7. Alguma informação apareceu cedo demais?
+8. Existe algum trecho que quebra o ritmo?
+9. Posso remover palavras sem perder força?
+10. O visitante está progressivamente mais preparado para executar a ação?
+Se houver uma quebra, reorganize.
+
+45. TESTE VISUAL
+Antes de considerar o trabalho pronto, revise:
+1. Qual elemento chama atenção primeiro?
+2. Ele deveria chamar atenção primeiro?
+3. A página comunica rapidamente o que oferece?
+4. O próximo passo está claro?
+5. Existem elementos competindo com o CTA?
+6. Há cards demais?
+7. Há texto demais?
+8. Há espaço vazio sem função?
+9. O layout parece específico para esse negócio?
+10. Mobile continua convincente?
+11. A página funciona sendo escaneada?
+12. A hierarquia visual acompanha a hierarquia da copy?
+13. Existe decoração prejudicando a leitura?
+14. O posicionamento visual combina com a oferta?
+15. Existe algum padrão genérico característico de páginas feitas automaticamente?
+Corrija antes de finalizar.
+
+46. REGRA DE PRIORIDADE
+Sempre que princípios entrarem em conflito, utilize esta ordem:
+1. Clareza 2. Compreensão 3. Conversão 4. Usabilidade 5. Hierarquia 6. Acessibilidade 7. Consistência 8. Persuasão 9. Estética 10. Efeitos visuais
+Clareza vence criatividade.
+Compreensão vence persuasão forçada.
+Fluidez vence excesso de argumentos.
+O que importa para o prospect vence o que a empresa gostaria de dizer.
+Função vence decoração.
+
+47. REGRA-MÃE
+Antes de aprovar a página, responda:
+O usuário entende em poucos segundos:
+onde está?
+o que está sendo oferecido?
+o que ganha?
+por que isso importa?
+por que deveria acreditar?
+e qual é o próximo passo?
+Se alguma resposta não estiver clara, a página ainda não está pronta.
+
+48. PRINCÍPIO FINAL
+Clareza antes de criatividade.
+Compreensão antes de persuasão.
+Persuasão antes de decoração.
+A página final deve parecer menos uma coleção de blocos de marketing e mais uma conversa visual e persuasiva cuidadosamente construída.
+Cada seção deve existir por um motivo.
+Cada destaque deve possuir função.
+Cada CTA deve representar uma continuação natural.
+Cada decisão visual deve reduzir esforço e aumentar compreensão.
+O usuário não deve sentir que está sendo conduzido à força.
+Ele deve chegar naturalmente à conclusão de que avançar é a próxima decisão lógica.
+
+EXECUÇÃO
+Com base em todas as regras acima, agora desenvolva a página solicitada.
+Antes de executar, determine internamente:
+1. Público 2. Intenção 3. Nível de consciência 4. Problema principal 5. Promessa central 6. Mecanismo ou solução 7. Principais objeções 8. Conversão principal 9. Estrutura narrativa 10. Direção visual
+Depois construa copy e design juntos, e não como etapas independentes.
+Quando o pedido envolver desenvolvimento, entregue a página completa e funcional em HTML, incluindo CSS e JavaScript necessários, responsiva para desktop e mobile.
+Não utilize lorem ipsum.
+Não invente provas, números, clientes ou depoimentos.
+Quando uma informação essencial não tiver sido fornecida, utilize uma solução visual ou textual neutra que possa ser substituída posteriormente, sem fabricar fatos.
+A página deve terminar pronta para uso, visualização e refinamento.
